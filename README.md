@@ -1,6 +1,6 @@
 # VMware
 
-## VM Copy Paste Enabler v1.0.0
+## VM Copy Paste Enabler
 PowerCLI script to enable copy paste on VMWare VMs
 
 It makes the same changes that are listed here https://kb.vmware.com/s/article/57122
