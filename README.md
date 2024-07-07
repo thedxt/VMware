@@ -36,5 +36,6 @@ VMware PowerCLI script to backup ESXi host configs using vCenter.
 >
 >
 > You can suppress the prompt for vCenter credentials by setting `connected` to `Yes`
+> 
 > `esxi-conf-backup -vcenter "vcenter.contoso.com" -folder "C:\ESXi-Backup" -connected Yes`
 >
