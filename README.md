@@ -26,7 +26,7 @@ VMware PowerCLI script to backup ESXi host configs using vCenter.
 * Performs an ESXi config backup for all ESXi hosts in vCenter
 * Renames the backup file to have the ESXi hostname, the ESXi installed version with build number, and the local time the backup was taken.
 
-[More detailed documentation](https://thedxt.ca/)
+[More detailed documentation](https://thedxt.ca/2024/07/vcenter-esxi-config-backup-script/)
 
 > [!TIP]
 > ## Examples
